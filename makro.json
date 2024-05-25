@@ -1,0 +1,9 @@
+{
+    "name_product": "name_product",
+    "unity_price": "cleaned_unity_price",
+    "total_price":"cleaned_total_price",
+    "price_w_iva":"cleaned_price_w_iva",
+    "image": "pictures",
+    "url": "url"
+   
+}

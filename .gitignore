@@ -1,0 +1,3 @@
+chrome-headless-shell-win64/
+.env
+db.sqlite3
