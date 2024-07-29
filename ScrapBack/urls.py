@@ -19,7 +19,7 @@ from django.urls import path
 from .views.scrappers_views import Scrappy
 from .views.user_views import Auth
 from .views.test import TestView
-#hola
+
 urlpatterns = [
     # path('tienda/<str:producto>/',Scrappy.alcampo), ESTO ES GET
     path('all/<str:producto>/',Scrappy.all_scrappers),
@@ -32,7 +32,10 @@ urlpatterns = [
     path('auth/forgotpassw',Auth.forgotPassw),
     path('auth/changepassw',Auth.changePassw),
     path('auth/authtoken',Auth.authToken),
-    path('test',TestView.get),
+    path('test/makro/<str:producto>/',TestView.test_makro),
+    # path('test/carrefour/<str:producto>/',TestView.test), no funciona
+    path('test/eci/<str:producto>/',TestView.test_eci),
+    path('test/alcampo/<str:producto>/',TestView.test_alcampo),
 ]
 
     
