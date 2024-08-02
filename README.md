@@ -8,6 +8,7 @@ Esta aplicación ha sido desarrollada con el único propósito de aprender y exp
 No está diseñada para su uso en producción ni ofrece garantías de estabilidad.
 
 **Todos los scrapers utilizados en esta aplicación han sido desarrollados por mí para fines educativos.**
+- Carrefour ha dejado de funcionar debido a que se ha restringido el acceso a los datos que intentaba recuperar.
 
 Para hacer funcionar alguno de los scrappers, necesitas descargar un webdriver de chrome compatible con tu actual navegador de chrome. en mi caso, uso chrome-headless-shell-win64.
 
