@@ -10,9 +10,8 @@ No está diseñada para su uso en producción ni ofrece garantías de estabilida
 **Todos los scrapers utilizados en esta aplicación han sido desarrollados por mí para fines educativos.**
 - Carrefour ha dejado de funcionar debido a que se ha restringido el acceso a los datos que intentaba recuperar.
 
-Para hacer funcionar alguno de los scrappers, necesitas descargar un webdriver de chrome compatible con tu actual navegador de chrome. en mi caso, uso chrome-headless-shell-win64.
-
-Esta aplicacion hace peticiones a las paginas webs de makro, carrefour, el corte ingles y alcampo, devuelve JSONs que son aprovechados en un ScrapBack.
+## Descripción
+Esta aplicación realiza peticiones a las páginas web de Makro, Carrefour, El Corte Inglés y Alcampo, recuperando productos de sus sitios. Los datos obtenidos se devuelven en formato JSON, los cuales son utilizados en ScrapFront.
 
 ## Setup
 
