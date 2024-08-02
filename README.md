@@ -7,6 +7,8 @@ Esta aplicación ha sido desarrollada con el único propósito de aprender y exp
 
 No está diseñada para su uso en producción ni ofrece garantías de estabilidad.
 
+Recordar que esta aplicación se ha creado únicamente con fines educativos para aprender y experimentar con dichas tecnologías.
+
 **Todos los scrapers utilizados en esta aplicación han sido desarrollados por mí para fines educativos.**
 - Carrefour ha dejado de funcionar debido a que se ha restringido el acceso a los datos que intentaba recuperar.
 
