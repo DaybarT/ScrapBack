@@ -31,3 +31,6 @@ Se nos migraran datos, se aplicaran cambios, etc...
 ```sh
 py manage.py runserver
 ```
+```sh
+py manage.py runserver 0.0.0.0:9000
+```
