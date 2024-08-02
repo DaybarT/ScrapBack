@@ -16,7 +16,7 @@ Esta aplicación realiza peticiones a las páginas web de Makro, Carrefour, El C
 ## Setup
 
 - Instalar Python 3.12.x como mínimo -> https://www.python.org/
-- Descargar Webdriver compatible con **Google Chrome** : https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419
+- Descargar Webdriver compatible con tu version de **Google Chrome** : https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419
 
 Una vez tengamos todo instalado, en la carpeta del proyecto ejecutamos:
 ```sh
