@@ -27,7 +27,7 @@ python manage.py migrate
 ```
 Se nos migraran datos, se aplicaran cambios, etc...
 
-# Compilación y reload activo
+### Compilación y reload activo
 ```sh
 py manage.py runserver
 ```
