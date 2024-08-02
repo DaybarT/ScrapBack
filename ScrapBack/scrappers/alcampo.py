@@ -5,6 +5,8 @@ import requests
 import json
 
 # -> py manage.py runserver para runnear el server
+# -> python manage.py runserver 0.0.0.0:9000 
+# 0.0.0.0 para conectarlo con tu maquina virtual pon la direccion ip de tu equipo local para conectar.
 
 class Alcampo():
     

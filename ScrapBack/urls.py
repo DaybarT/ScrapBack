@@ -22,16 +22,16 @@ from .views.test import TestView
 
 urlpatterns = [
     # path('tienda/<str:producto>/',Scrappy.alcampo), ESTO ES GET
-    path('all/<str:producto>/',Scrappy.all_scrappers),
+    # path('all/<str:producto>/',Scrappy.all_scrappers),
     path('makro/<str:producto>/',Scrappy.makro),
-    path('carrefour/<str:producto>/',Scrappy.carrefour),
+    # path('carrefour/<str:producto>/',Scrappy.carrefour),
     path('eci/<str:producto>/',Scrappy.eci),
     path('alcampo/<str:producto>/',Scrappy.alcampo),
-    path('auth/login',Auth.login),
-    path('auth/register',Auth.register),
-    path('auth/forgotpassw',Auth.forgotPassw),
-    path('auth/changepassw',Auth.changePassw),
-    path('auth/authtoken',Auth.authToken),
+    # path('auth/login',Auth.login),
+    # path('auth/register',Auth.register),
+    # path('auth/forgotpassw',Auth.forgotPassw),
+    # path('auth/changepassw',Auth.changePassw),
+    # path('auth/authtoken',Auth.authToken),
     path('test/makro/<str:producto>/',TestView.test_makro),
     # path('test/carrefour/<str:producto>/',TestView.test), no funciona
     path('test/eci/<str:producto>/',TestView.test_eci),
