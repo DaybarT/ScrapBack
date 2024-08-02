@@ -16,9 +16,6 @@ Esta aplicación realiza peticiones a las páginas web de Makro, Carrefour, El C
 ## Setup
 
 - Instalar Python 3.12.x como mínimo -> https://www.python.org/
-- Iniciar un proyecto con Django -> https://www.djangoproject.com/
-- Instalar BeautifulSoup -> https://beautiful-soup-4.readthedocs.io/en/latest/
-- Instalar Selenium -> https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
 - Descargar Webdriver compatible con **Google Chrome** : https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419
 
 Una vez tengamos todo instalado, en la carpeta del proyecto ejecutamos:
